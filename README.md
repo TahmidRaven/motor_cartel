@@ -1,19 +1,26 @@
-# motor_cartel
-Disclaimer: it's inspired by BreakingBad. I'm not breaking bad I swear.
+# Motor Cartel
 
-## takes user logins and registrations 
-## creates appointments 
-## admin and mechanic handle the appointment stuff
-## Clients can rate mechanics and set appointments 
-## database has been added to Misc folder
+*Disclaimer: This project is inspired by Breaking Bad. No illegal activities are encouraged or condoned.*
 
-##usernames_passwords
-###for admin
-admin admin 
+## Features:
 
-###for client
-Jane123 Jane123
-or create new
+- User authentication system for logins and registrations.
+- Appointment scheduling functionality.
+- Administration and mechanic interfaces for managing appointments.
+- Clients can rate mechanics and schedule appointments.
+- Database included in the `Misc` folder.
 
-###for mechanic
-heisenberg heisenberg
+## Default Usernames and Passwords:
+
+- **Admin**:  
+  - Username: admin  
+  - Password: admin 
+
+- **Client**:  
+  - Username: Jane123  
+  - Password: Jane123  
+  - *Alternatively, users can create new accounts.*
+
+- **Mechanic**:  
+  - Username: heisenberg  
+  - Password: heisenberg  
